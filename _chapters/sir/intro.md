@@ -1,5 +1,4 @@
 ---
-interact_link: notebooks/sir/intro.ipynb
 title: 'SIR model'
 permalink: 'chapters/sir/intro'
 previouschapter:
