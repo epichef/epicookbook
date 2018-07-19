@@ -1,19 +1,9 @@
-name: epicookbook
-
-channels:
-  - conda-forge
-
 dependencies:
+  - matplotlib
+  - numpy
+  - pip
   - pip:
-    - bs4
-    - tqdm
-    - numpy
-    - pyyaml
-    - nbformat
-    - nbclean
-    - scipy
-    - pandas
-    - matplotlib
-    - plotly
-
-
+      - julia
+      - scipy
+      - pandas
+      - plotly

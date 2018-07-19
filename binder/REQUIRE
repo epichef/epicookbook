@@ -1,4 +1,5 @@
 DifferentialEquations
 RandomNumbers
 Gillespie
-
+PyCall
+PyPlot
