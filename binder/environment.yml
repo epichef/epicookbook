@@ -1,9 +1,10 @@
 dependencies:
   - matplotlib
   - numpy
+  - scipy
+  - pandas
+  - plotly
   - pip
   - pip:
       - julia
-      - scipy
-      - pandas
-      - plotly
+      - rpy2
