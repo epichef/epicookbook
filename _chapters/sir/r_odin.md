@@ -6,8 +6,8 @@ previouschapter:
   url: chapters/sir/r_desolve
   title: 'R using deSolve'
 nextchapter:
-  url: chapters/sir/julia
-  title: 'Julia using DifferentialEquations'
+  url: 
+  title: ''
 redirect_from:
   - 'chapters/sir/r-odin'
 ---

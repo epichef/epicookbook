@@ -13,9 +13,6 @@ chapters:
   - class: level_1
     title: R using odin
     url: chapters/sir/r_odin
-  - class: level_1
-    title: Julia using DifferentialEquations
-    url: chapters/sir/julia
   class: level_0
   title: SIR model
   url: chapters/sir/intro
