@@ -2,8 +2,8 @@
 title: 'SIR model'
 permalink: 'chapters/sir/intro'
 previouschapter:
-  url: 
-  title: ''
+  url: chapters/simple
+  title: 'Simple deterministic models'
 nextchapter:
   url: chapters/sir/python
   title: 'Python using SciPy'
