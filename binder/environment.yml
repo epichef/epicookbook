@@ -4,7 +4,8 @@ dependencies:
   - scipy
   - pandas
   - plotly
+  - rpy2
+  - cython
   - pip
   - pip:
       - julia
-      - rpy2

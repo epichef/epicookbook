@@ -1,6 +1,7 @@
 install.packages("reshape2")
 install.packages("deSolve")
 install.packages("ggplot2")
+install.packages("plotly")
 install.packages("GillespieSSA")
 install.packages("pomp")
 devtools::install_github("mrc-ide/odin", upgrade = FALSE)
