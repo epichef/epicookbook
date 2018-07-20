@@ -14,7 +14,7 @@ dependencies:
   - plotly
   - rpy2
   - cython
-  - fortran_magic
+  - fortran-magic
   - pip
   - pip:
       - julia
