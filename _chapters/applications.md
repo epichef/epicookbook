@@ -2,8 +2,8 @@
 title: 'Applications'
 permalink: 'chapters/applications'
 previouschapter:
-  url: chapters/sir-stochastic-discretestate-discretetime/julia
-  title: 'Julia'
+  url: chapters/sircn/r
+  title: 'R'
 nextchapter:
   url: chapters/acutehiv/intro
   title: 'Acute HIV infection'

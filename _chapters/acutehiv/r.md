@@ -1,15 +1,15 @@
 ---
-interact_link: notebooks/acutehiv/r-acutehiv.ipynb
+interact_link: notebooks/acutehiv/r.ipynb
 title: 'R'
-permalink: 'chapters/acutehiv/r-acutehiv'
+permalink: 'chapters/acutehiv/r'
 previouschapter:
   url: chapters/acutehiv/intro
   title: 'Acute HIV infection'
 nextchapter:
-  url: 
-  title: ''
+  url: chapters/diffrisk/intro
+  title: 'A model of HIV with two risk groups'
 redirect_from:
-  - 'chapters/acutehiv/r-acutehiv'
+  - 'chapters/acutehiv/r'
 ---
 
 ## A model of acute HIV infection using R and simecol
@@ -76,5 +76,5 @@ ggplot(acutehiv.out.long,aes(x=time,y=value,colour=variable,group=variable))+
 
 
 
-![png](../../images/chapters/acutehiv/r-acutehiv_7_1.png)
+![png](../../images/chapters/acutehiv/r_7_1.png)
 

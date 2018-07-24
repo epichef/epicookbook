@@ -52,12 +52,45 @@ chapters:
   url: chapters/stochastic
 - children:
   - class: level_1
+    title: Seasonally forced deterministic model
+    url: chapters/sirforced/intro
+  - class: level_2
+    title: R
+    url: chapters/sirforced/r
+  class: level_0
+  title: Time-varying parameters
+  url: chapters/timevarying
+- children:
+  - class: level_1
+    title: An edge based SIR model on a configuration network
+    url: chapters/sircn/intro
+  - class: level_2
+    title: R
+    url: chapters/sircn/r
+  class: level_0
+  title: Network models
+  url: chapters/network
+- children:
+  - class: level_1
     title: Acute HIV infection
     url: chapters/acutehiv/intro
   - class: level_2
     title: R
-    url: chapters/acutehiv/r-acutehiv
+    url: chapters/acutehiv/r
+  - class: level_1
+    title: A model of HIV with two risk groups
+    url: chapters/diffrisk/intro
+  - class: level_2
+    title: R
+    url: chapters/diffrisk/r
   class: level_0
   title: Applications
   url: chapters/applications
+- children:
+  - class: level_1
+    title: Style guide for notebooks
+    url: chapters/style
+  class: level_0
+  title: Appendices
+  url: chapters/appendices
 first_chapter_url: chapters/simple

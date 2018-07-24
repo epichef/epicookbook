@@ -6,8 +6,8 @@ previouschapter:
   url: chapters/sir-stochastic-discretestate-discretetime/r-pomp
   title: 'R using POMP'
 nextchapter:
-  url: chapters/applications
-  title: 'Applications'
+  url: chapters/timevarying
+  title: 'Time-varying parameters'
 redirect_from:
   - 'chapters/sir-stochastic-discretestate-discretetime/julia'
 ---

@@ -1,0 +1,2 @@
+
+## Seasonally forced SIR model

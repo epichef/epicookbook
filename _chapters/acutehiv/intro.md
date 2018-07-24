@@ -5,7 +5,7 @@ previouschapter:
   url: chapters/applications
   title: 'Applications'
 nextchapter:
-  url: chapters/acutehiv/r-acutehiv
+  url: chapters/acutehiv/r
   title: 'R'
 redirect_from:
   - 'chapters/acutehiv/intro'
