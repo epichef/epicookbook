@@ -8,4 +8,21 @@ This project aims to collate mathematical models of infectious disease transmiss
 
 Categories of models include:
 
-* [Simple deterministic models using ordinary differential equations](https://epirecip.es/epicoobook/chapters/simple)
+* Simple deterministic models using ordinary differential equations
+  * Standard compartmental models
+  * Non-exponential distributions of infectious periods
+    * Delay differential equations
+    * Method of stages
+    * Infection-age models
+* Simple stochastic models
+  * Gillespie's stochastic simulation algorithm
+  * Discrete time
+  * Stochastic differential equations
+* Models with time-varying parameters
+* Spatial models
+* Network models
+  * Pair approximations
+  * Edge based models
+* Applications to specific disease systems
+
+Interactive notebooks are linked from the text, and can be found [here](https://mybinder.org/v2/gh/epirecipes/epicookbook/master?filepath=notebooks).

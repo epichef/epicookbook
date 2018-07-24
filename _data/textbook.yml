@@ -22,4 +22,42 @@ chapters:
   class: level_0
   title: Simple deterministic models
   url: chapters/simple
+- children:
+  - class: level_1
+    title: Continuous time
+    url: chapters/sir-stochastic-discretestate-continuoustime/intro
+  - class: level_2
+    title: R
+    url: chapters/sir-stochastic-discretestate-continuoustime/r
+  - class: level_2
+    title: R using GillespieSSA
+    url: chapters/sir-stochastic-discretestate-continuoustime/r-gillespiessa
+  - class: level_2
+    title: R using Rcpp
+    url: chapters/sir-stochastic-discretestate-continuoustime/r-rcpp
+  - class: level_2
+    title: Julia
+    url: chapters/sir-stochastic-discretestate-continuoustime/julia
+  - class: level_1
+    title: Discrete time
+    url: chapters/sir-stochastic-discretestate-discretetime/intro
+  - class: level_2
+    title: R using POMP
+    url: chapters/sir-stochastic-discretestate-discretetime/r-pomp
+  - class: level_2
+    title: Julia
+    url: chapters/sir-stochastic-discretestate-discretetime/julia
+  class: level_0
+  title: Simple stochastic models
+  url: chapters/stochastic
+- children:
+  - class: level_1
+    title: Acute HIV infection
+    url: chapters/acutehiv/intro
+  - class: level_2
+    title: R
+    url: chapters/acutehiv/r-acutehiv
+  class: level_0
+  title: Applications
+  url: chapters/applications
 first_chapter_url: chapters/simple

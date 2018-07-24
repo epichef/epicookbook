@@ -6,8 +6,8 @@ previouschapter:
   url: chapters/sir/r_odin
   title: 'R using odin'
 nextchapter:
-  url: 
-  title: ''
+  url: chapters/stochastic
+  title: 'Simple stochastic models'
 redirect_from:
   - 'chapters/sir/julia'
 ---
