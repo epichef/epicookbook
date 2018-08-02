@@ -43,7 +43,7 @@ const m0 = {
   var data = [strace,itrace,rtrace];
   
   var layout = {
-    width: width
+    width: width/2
   };
   
   const div = DOM.element('div');
