@@ -22,6 +22,9 @@ chapters:
   - class: level_2
     title: Octave
     url: chapters/sir/octave
+  - class: level_2
+    title: Javascript
+    url: chapters/sir/js
   class: level_0
   title: Simple deterministic models
   url: chapters/simple

@@ -7,6 +7,7 @@
     * [R using odin](notebooks/sir/r_odin.ipynb)
     * [Julia](notebooks/sir/julia.ipynb)
     * [Octave](notebooks/sir/octave.ipynb)
+    * [Javascript](notebooks/sir/js.md)
 * [Simple stochastic models](notebooks/stochastic.md)
   * [Continuous time](notebooks/sir-stochastic-discretestate-continuoustime/intro.md)
     * [R](notebooks/sir-stochastic-discretestate-continuoustime/r.ipynb)

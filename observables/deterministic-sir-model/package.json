@@ -1,0 +1,9 @@
+{
+  "name": "deterministic-sir-model",
+  "main": "deterministic-sir-model.js",
+  "version": "123.0.0",
+  "author": {
+    "name": "epichef",
+    "url": "https://beta.observablehq.com/@epichef"
+  }
+}

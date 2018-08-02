@@ -6,8 +6,8 @@ previouschapter:
   url: chapters/sir/julia
   title: 'Julia'
 nextchapter:
-  url: chapters/stochastic
-  title: 'Simple stochastic models'
+  url: chapters/sir/js
+  title: 'Javascript'
 redirect_from:
   - 'chapters/sir/octave'
 ---
