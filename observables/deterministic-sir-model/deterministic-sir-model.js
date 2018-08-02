@@ -1,18 +1,12 @@
 // URL: https://beta.observablehq.com/@epichef/deterministic-sir-model
-// Title: Deterministic SIR model
+// Title: Untitled
 // Author: epichef (@epichef)
-// Version: 123
+// Version: 126
 // Runtime version: 1
 
 const m0 = {
-  id: "72dc62d45ebb4449@123",
+  id: "72dc62d45ebb4449@126",
   variables: [
-    {
-      inputs: ["md"],
-      value: (function(md){return(
-md`# Deterministic SIR model`
-)})
-    },
     {
       inputs: ["sir_sol","width","DOM","Plotly"],
       value: (function(sir_sol,width,DOM,Plotly)
@@ -49,7 +43,6 @@ md`# Deterministic SIR model`
   var data = [strace,itrace,rtrace];
   
   var layout = {
-    title: 'Deterministic SIR',
     width: width
   };
   
@@ -307,7 +300,7 @@ require("d3-format")
 };
 
 const notebook = {
-  id: "72dc62d45ebb4449@123",
+  id: "72dc62d45ebb4449@126",
   modules: [m0,m1]
 };
 
